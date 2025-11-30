@@ -1,6 +1,6 @@
 name: 🪞 Mirror
 
-env:
+env:Request ID: F31E:2ACABE:67ACD2C:8B5A79C:692CD11B
   MIRROR_URL: "git@github.com:EpitechPromo2026/G-EIP-700-PAR-7-1-eip-emil.pedersen.git"
 
 on: push
